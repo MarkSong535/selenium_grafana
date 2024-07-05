@@ -1,0 +1,8 @@
+{
+    "username": "username",
+    "password": "password",
+    "base_url": "https://host/",
+    "dashboard_url": "https://host/dashboard",
+    "filename": "filename",
+    "button_class": "button_class"
+}
